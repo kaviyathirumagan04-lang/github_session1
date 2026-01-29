@@ -1,0 +1,15 @@
+.container{
+    background-color: blueviolet
+    padding: 50px;
+    text-align: justify;
+
+}
+.btm{
+    text-align: justify;
+    margin: 100px;
+    background-color: black;
+    padding: ;
+}
+.btn:hover{
+    background-color: aquamarine;
+}
